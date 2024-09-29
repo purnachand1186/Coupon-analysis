@@ -84,3 +84,30 @@ Most of my analysis on coupons types of 'Bar' & 'Coffes House'
 **Outcomes of my analysis**
 
 1. Acceptance Patterns of 'Bar' Coupons
+
+   -41% coupons were accepted (821 out of 2010)
+
+   -Drivers who goes to bar less than 3 times in month tend to accept more coupons
+
+   -Older drivers who goes bar more tend to accept bar copuons
+
+   -Driver with adult passengers are most likely accept copuons
+
+   -Passengers who are not widoes are most likely accept coupons
+
+   -Drivers who goes to cheap restaurants and with less income tend to accept bar coupons, where as drivers with more income is not accepting bar coupons
+
+2. Acceptance Patterns of 'Coffee House' Coupons
+
+   -Coupon acceptance and rejection rates similar when it comes to coupon type of Coffee House
+
+   -Drivers who goes to Coffee House more than 3 times in month tend to accept more coupons
+
+   -Older drivers who goes coffee house more tend to accept Coffee coupons copuons
+
+   -Drivers with adult passengers are most likely accept copuons
+
+3. Users tend to accept coupons if its sunny, not driving towards their home or work,  and in between 2PM and 6 PM
+
+
+
